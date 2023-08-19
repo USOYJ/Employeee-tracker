@@ -26,9 +26,17 @@ When user wants to add a role
 
 ## Screenshots:
 
+<img width="1384" alt="Screenshot 2023-08-19 at 1 32 05 PM" src="https://github.com/USOYJ/Employeee-tracker/assets/125850331/09e946fa-1a27-44bd-95b5-9948307f16cd">
+
+
+<img width="1383" alt="Screenshot 2023-08-19 at 1 32 38 PM" src="https://github.com/USOYJ/Employeee-tracker/assets/125850331/77cc1532-7476-4b4a-bce1-92c95c101725">
 
 
 
+<img width="1368" alt="Screenshot 2023-08-19 at 1 32 17 PM" src="https://github.com/USOYJ/Employeee-tracker/assets/125850331/2e4ae20d-a7a9-465c-b779-769b1e331eeb">
+
+
+<img width="1387" alt="Screenshot 2023-08-19 at 1 32 57 PM" src="https://github.com/USOYJ/Employeee-tracker/assets/125850331/98240b11-88e5-4ee8-a64d-60e1c1af7034">
 
 
 
